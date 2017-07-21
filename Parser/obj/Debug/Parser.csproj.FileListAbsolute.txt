@@ -1,0 +1,11 @@
+E:\Programming\Work\Parser\Parser\bin\Debug\Parser.exe.config
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.FormMain.resources
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.Properties.Resources.resources
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.csproj.GenerateResource.Cache
+E:\Programming\Work\Parser\Parser\bin\Debug\Parser.exe
+E:\Programming\Work\Parser\Parser\bin\Debug\Parser.pdb
+E:\Programming\Work\Parser\Parser\bin\Debug\AngleSharp.dll
+E:\Programming\Work\Parser\Parser\bin\Debug\AngleSharp.xml
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.exe
+E:\Programming\Work\Parser\Parser\obj\Debug\Parser.pdb
